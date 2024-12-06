@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/your_project/internal/socket"
+	"github.com/tnqbao/blog_socket/internal/socket"
 )
 
 func main() {
